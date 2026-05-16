@@ -112,6 +112,8 @@ currently_learning: Advanced Graphic Design
 
 ## 🎯 Current Focus
 
+<div align="center">
+
 ```javascript
 const musfiqGraphix = {
     currentWork: "Graphic Design Projects",
@@ -124,6 +126,23 @@ const musfiqGraphix = {
     funFact: "I transform caffeine into creative designs ☕🎨"
 };
 ```
+
+</div>
+
+<br>
+
+## 🎨 What I Do Best
+
+<div align="center">
+
+| 🎨 Design | 💻 Development | 🚀 Currently Learning |
+|:---:|:---:|:---:|
+| Logo Design | HTML/CSS/JS | Advanced Graphic Design |
+| T-shirt Design | React Apps | UI/UX Principles |
+| Brand Identity | WordPress Sites | Motion Graphics |
+| Social Media Graphics | Responsive Design | 3D Design Concepts |
+
+</div>
 
 <br>
 
